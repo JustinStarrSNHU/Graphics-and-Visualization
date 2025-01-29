@@ -1,9 +1,28 @@
-# Graphics-and-Visualization
+# Graphics-and-Visualization | Developer: Justin Starr
+
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
+
+# Hello, and welcome to the Computer Graphics and Visualization Repository of my Academic Projects🖐️
+
+Created realistic, interactive 3D objects through the use of API libraries and best practices. Learned OpenGL to develop a fully formed graphic application based off a scene I created.
+
+# 📖 Table of Contents
 
 Directories contain assignment executables / project executable <br>
 glew32.dll must be in the same location as the executable for them to execute properly<br><br>
 
 Project Folder: M7<br><br>
+
+> 📌 M1/ Preparing OpenGL and first application changing a window title 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Graphics-and-Visualization/tree/main/M1)<br>
+📌 M2/ Generating 2D Traingles and creating the project scene from 3D objects 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Graphics-and-Visualization/tree/main/M2)<br>
+📌 M3/ Generating a 3D pyramid and Generating the first object in my project scene 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Graphics-and-Visualization/tree/main/M3)<br>
+📌 M4/ Incorporating basic camera movement and implemented interactivity in my 3D scene 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Graphics-and-Visualization/tree/main/M4)<br>
+📌 M5/ Texturing a pyramid and textured the first object in my 3D scene 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Graphics-and-Visualization/tree/main/M5)<br>
+📌 M6/ Lighting a pyramid and lighting the project 3D scene 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Graphics-and-Visualization/tree/main/M6)<br>
+📌 M7/ Final Project consisting of completed 3D scene with multiple textured objects with interactivity and camera movement 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Graphics-and-Visualization/tree/main/M7)<br>
+📌 M8/ Coding Collisions 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Graphics-and-Visualization/tree/main/M8)<br>
 
 # How do I approach designing software?
 
