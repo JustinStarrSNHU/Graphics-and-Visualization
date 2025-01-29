@@ -38,7 +38,7 @@ Once I knew how to program all of the various components to render objects in a 
 
 I think my biggest takeaway as it concerns the design approach would be that we can oftentimes use models or 2D images to give us a picture of what we create should look like. It can be a guide for how to layout objects in a 3D scene.
 
-# How do i approach developing programs?
+# How do I approach developing programs?
 
 - What new development startegies did you use while working on your 3D scene?
 
@@ -52,7 +52,7 @@ Iteration factored into my development by continually adding functions that were
 
 Each week, I was able to apply what I learned to my project. By the time I got to the point of completing the project, I was left with only having to add the rest of the object's to my scene.
 
-# how can computer science help me in reaching my goals?
+# How can computer science help me in reaching my goals?
 
 - How do computational graphics and visualizations give you knowledge and skills that can be applied in your future educational pathway?
 
